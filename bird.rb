@@ -4,6 +4,8 @@ class Bird
   def initialize
   end
   
+  def checkforward
+  end	  
 
 end
 
